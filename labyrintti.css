@@ -1,0 +1,17 @@
+body {
+    background: white;
+}
+#mainArea  {
+	float:left;
+}
+#statusdiv  {
+	float:left;
+}
+#messagebox {
+	width: 75%;
+	float: left;
+}
+#controls {
+	width: 25%;
+	float: right;
+}
